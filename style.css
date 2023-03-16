@@ -109,3 +109,7 @@ button:hover {
     width: 55rem;
     
 }
+
+.container .rec-card p {
+    padding-top: .5rem;
+}
