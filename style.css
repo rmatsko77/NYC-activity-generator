@@ -74,3 +74,38 @@ button:hover {
     background-color: black;
     cursor: pointer;
 }
+
+#recContainer {
+    display: none;
+    width: 100%;
+    margin-left: -13rem;
+    margin-top: 5rem;
+}
+
+.container h3 {
+    background-color: rgba(0, 0, 0, 0.591);
+    font-size: 1.75rem;
+    width: 28ch;
+    height: 2.5rem;
+    border-radius: 30px;
+    padding-left: 1rem;
+    text-align: center;
+    padding-top: .45rem;
+    margin-bottom: .5rem;
+}
+
+.container p {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 3rem;
+}
+
+.container .rec-card {
+    margin-bottom: .25rem;
+    margin-top: .25rem;
+    height: 3rem;
+    border-radius: 10px;
+    background-color: black;
+    width: 55rem;
+    
+}
