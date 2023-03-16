@@ -27,6 +27,7 @@ let openRec = function() {
     card1.innerHTML = card1Text;
     card2.innerHTML = card2Text;
     card3.innerHTML = card3Text;
+    button.innerHTML = 'Try Again?'
 };
 
 button.addEventListener('click', openRec);
